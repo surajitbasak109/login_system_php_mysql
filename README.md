@@ -1,1 +1,4 @@
-# login_system_php_mysql
+# Login System with PHP and MySQL
+Username:johndoe
+Passowrd:password
+
