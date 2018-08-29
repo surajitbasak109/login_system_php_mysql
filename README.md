@@ -1,5 +1,5 @@
 # Login System with PHP and MySQL
-Username:johndoe
+Username: johndoe
 
-Passowrd:password
+Passowrd: password
 
